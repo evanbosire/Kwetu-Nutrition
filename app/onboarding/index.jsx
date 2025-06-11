@@ -11,7 +11,7 @@ const OnboardingScreen = () => {
   return (
     <LinearGradient
       colors={["#1f2937", "#111827", "#000000"]}
-      style={{ flex: 1 }} // Ensure the LinearGradient fills the screen
+      style={{ flex: 1 }} 
     >
       <SafeAreaView style={{ flex: 1 }}>
         {/* Status Bar */}
